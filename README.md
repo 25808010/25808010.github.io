@@ -1,5 +1,5 @@
 ## <strong>金牌六组三中三对错不改</strong>
-<a href="../HTML" style="font-size:20px;">加入会员</a> |
+<a href=".._layouts" style="font-size:20px;">加入会员</a> |
 <a href="../HTML" style="font-size:20px;">历史记录</a> |
 <a href="../6.html" style="font-size:20px;">关于资料</a>
 ### <strong>046期：每组下10元～细水长流！<strong>
